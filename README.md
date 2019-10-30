@@ -7,4 +7,6 @@ bikes, parts, and docking stations. The bike share program officially launched i
 the neighboring municipalities of Brookline, Cambridge, and Somerville.
 
 Data preprocessing was done by lubricate and geosphere libraries by generating new features.
+
+
 Visualization was done by leaflet, tidyverse and GridExtra
